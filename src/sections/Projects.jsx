@@ -9,7 +9,7 @@ const projects = [
         tags: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
         image: "https://images.unsplash.com/photo-1528164344705-47542687000d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
         github: "https://github.com/Charuz1/japanese-learning-web-site.git",
-        demo: "www.google.lk",
+        demo: "https://www.google.lk/",
         featured: true,
         accent: "from-rose-500 via-indigo-500 to-sky-500"
     },
